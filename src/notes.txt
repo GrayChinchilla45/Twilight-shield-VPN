@@ -1,1 +1,7 @@
 Remember to make twilight shield icons in 16 x 16, 24 x 24, 32 x 32, and 48 x 48.
+
+New extension ideas:
+
+Cursor changer (easy)
+Page annotater (maybe)
+Usercript manager (maybe)
